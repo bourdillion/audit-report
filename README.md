@@ -2,10 +2,6 @@
 
 
 
-A cool one
-
-
-
 
 
 
