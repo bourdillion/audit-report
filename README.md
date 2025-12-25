@@ -1,7 +1,3 @@
 # audit-report
 
 
-
-
-cool
-
