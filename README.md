@@ -3,9 +3,6 @@
 
 
 
-shadow-xl
-
-
 
 
 
