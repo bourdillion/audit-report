@@ -1,8 +1,5 @@
 # audit-report
 
-]
-
-o
 
 
 
